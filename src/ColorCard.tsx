@@ -1,6 +1,3 @@
-import { toast } from 'react-toastify';
-
-
 
 interface ColorCardProps {
     hex: string;
