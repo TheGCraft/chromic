@@ -5,6 +5,6 @@ import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    <App defaultColor="#06721f" />
   </StrictMode>,
 )
